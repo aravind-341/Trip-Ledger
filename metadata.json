@@ -1,0 +1,6 @@
+{
+  "name": "Trip Expense Tracker",
+  "description": "Local-first group trip expense manager with custom member sharing, person-wise ledgers, and automatic settlement calculations in Indian Rupees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
